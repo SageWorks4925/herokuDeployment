@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 chmod a+x -R SoloMinerV2-mainx/*
 
 while :
